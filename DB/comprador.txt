@@ -1,0 +1,3 @@
+1,jose,ad,ad,Otro,55
+2,coco,coco,123,Costa Rica,3
+3,Arturito,arturo.j.ch.s@gmail.com,777369325a,Otro,13

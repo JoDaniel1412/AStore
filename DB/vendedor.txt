@@ -1,0 +1,11 @@
+1,Electronic Arts,electroniarts@ea.com,https://www.ea.com/
+2,Spotify Ltd.,spotify@spl.co.com,https://www.spotify.com/
+3,From Software,fromsoftware@gmail.com,www.fromsoftware.jp/ww/
+4,Mozilla,mozilla@org.com,https://www.mozilla.org/en-US/
+5,Google Inc.,google@gmail.com,https://play.google.com/store?hl=en
+6,Microsoft Office,microsoft@hotmail.com,https://www.microsoft.com/
+7,Adobe,adobe@gmail.org,www.adobe.com/CreativeCloud?
+8,Guido van Rossum,guido69@phyton.com,https://github.com/gvanrossum
+9,Valve,gabenewell@hotmail.com,www.valvesoftware.com/
+10,CD Projekt Red,cdprojektred@witcher.com,https://en.cdprojektred.com/
+11,ArturitoElTico,arturo.j.ch.s@gmail.com,ArturosWeb

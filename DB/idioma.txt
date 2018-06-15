@@ -1,0 +1,72 @@
+0,Buscar,Search
+1,Iniciar sesion,Log in
+2,Español,English
+3,Astore Cuenta,Astore Account
+4,Correo,Email
+5,Contraseña,Password
+6,Registrarse,Sign up
+7,Correo o contraseña incorrecta,Email or password wrong
+8,Nueva Cuenta,New Account
+9,Nombre,Name
+10,Confirmar,Confirm
+11,Pais,Country
+12,Contraseña,Password
+13,Ingrese Nombre,Enter Name
+14,Ingrese Correo,Enter Email
+15,Ingrese Contraseña,Enter Password
+16,Contraseña no coincide,Password dont match   
+17,Nuevo Vendedor,New Seller
+18,Sitio Web,Web Site
+19,Ver y eliminar Vendedores y Apps,See and delete Sellers and Apps
+20,Ir a,Go to
+21,Cerrar Sesion, Log out
+22,Otro, Other
+23,Elegir,Choose
+24,Elija un pais,Choose a country
+25,Contraseña no conincide,Password dont match
+26,Crear cuenta,Create account
+27,Agregar App,Add App
+28,Nueva Applicacion,New Application
+29,Nombre del app,Name of the app
+30,Vendedor,Seller
+31,Imagen 1,Image 1
+32,Imagen 2,Image 2
+33, Precio $,Price $
+34,App registrada,Registered app
+35,Ingrese precio,Enter price
+36,Ingrese vendedor,Enter seller
+37,Ingrese nombre del app,Enter name of the app
+38,Descargas en Costa Rica :,Downloads in Costa Rica :
+39,Descargas en otros lugares :,Downloads in other places :
+40,Desinstalar,Uninstall
+41,Actualizar,Update
+42,No hay actualizaciones disponibles,There are no updates available
+43,Debe iniciar sesion,You must log in
+44,Descargar, Download
+45,Correo no existe,Email doesnt exist
+46,Correo ya existente,Email already taken
+47,Usuario o correo ya registrado,User or email already taken
+48,Ingrese Sitio Web,Enter Web Site
+49,Vendedor agregado,Added seller
+50,ID Vendedor,Seller ID
+51,Descripcion,Description
+52,ID no esta registrada,ID is not registered
+53,Categoria,Category
+54,Sin Categoria,Without category
+55,Juegos,Games
+56,Fotografia,Photography
+57,Correo,Email
+58,Nombre del Vendedor,Seller's Name
+59,Estado,Status
+60,Precio,Price
+61,ID V., ID S.
+62,Global,Globals
+63,Inserte ID de vendedor,Insert seller ID
+64,Borrar,Delete
+65,ID no encontrada, ID not found
+66,Cambiar estado,Change status
+67,Cambiar,Change
+68, ID no encontrada,ID not found
+69,Vendedor con apps registradas, Seller with apps registered
+70,Estado actualizado,Status updated
+71,Vendedor eliminado,Seller deleted
