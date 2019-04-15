@@ -1,4 +1,4 @@
-#AStore
+# AStore
 
 La progra fue realizada en la version 3.6 de Python
 
